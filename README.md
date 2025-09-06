@@ -2,7 +2,7 @@
 
 ---
 ## 🔗 Deployment Info
-- **Contract Transaction Hash:** `PASTE_HASH_HERE`  
+- **Contract Transaction Hash:** `0x04c3a5dad2a80c4d1c256d35508dcb4bdb27e9f372429f9746c6a57050668a9c`  
 
 *(Replace with your actual deployment hash once deployed)*  
 
